@@ -10,11 +10,10 @@ async def _(event):
     if event.fwd_from:
         return
     start = datetime.now()
-    event = await eor(event, "`·.·★ ℘ıŋɠ ★·.·´")
+    event = await edit_or_reply(event, "`·.·★ ℘ıŋɠ ★·.·´")
     end = datetime.now()
     ms = (end - start).microseconds / 1000
-    await event.edit(f"╰•★★  ℘ơŋɠ ★★•╯\n\n    ⚘  `{ms}`\n    ⚘  __**Oɯɳҽɾ**__ **:**  {mention}"
-    )
+    await event.edit(f"╰•★★  ℘ơŋɠ ★★•╯\n\n    ⚘  `{ms}`\n    ⚘  __**Oɯɳҽɾ**__ **:**  {mention}")
 
 
 @bot.on(admin_cmd(pattern=f"fping$", outgoing=True))
