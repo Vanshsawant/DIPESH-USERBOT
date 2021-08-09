@@ -1,21 +1,24 @@
 NUMBER = ["0", "1"]
 
 RAIDHU = [
-    "MADARCHOD TERI MAA KI CHUT ME GHUTKA KHAAKE THOOK DUNGA 🤣🤣",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERI VAHEEN NHI HAI KYA? 9 MAHINE RUK SAGI VAHEEN DETA HU 🤣🤣🤩",
-    "TERI MAA K BHOSDE ME AEROPLANEPARK KARKE UDAAN BHAR DUGA ✈️🛫",
-    "TERI MAA KI CHUT ME SUTLI BOMB FOD DUNGA TERI MAA KI JHAATE JAL KE KHAAK HO JAYEGI💣",
-    "TERI MAAKI CHUT ME SCOOTER DAAL DUGA👅",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERI MAA KI CHUT KAKTE 🤱 GALI KE KUTTO 🦮 ME BAAT DUNGA PHIR 🍞 BREAD KI TARH KHAYENGE WO TERI MAA KI CHUT",
-    "DUDH HILAAUNGA TERI VAHEEN KE UPR NICHE 🆙🆒😙",
-    "TERI MAA KI CHUT ME ✋ HATTH DALKE 👶 BACCHE NIKAL DUNGA 😍",
-    "TERI BEHN KI CHUT ME KELE KE CHILKE 🍌🍌😍",
-    "TERI BHEN KI CHUT ME USERBOT LAGAAUNGA SASTE SPAM KE CHODE",
-    "TERI VAHEEN DHANDHE VAALI 😋😛",
-    "TERI MAA KE BHOSDE ME AC LAGA DUNGA SAARI GARMI NIKAL JAAYEGI",
+    "Whx is best token",
+    "Whx will go on moon",
+    "Whx working hard on there project",
+    "Whx can me you rich",
+    "Whx will go on moon",
+    "Whx will go on mars",
+    "I like whx its best project",
+    "Whx is listed on many exchanges it's best",
+    "Whx team is best",
+    "Buy NOW & Get daily btt apy and going to pump soon so don't miss 6+ products  & 20+ listing",
+    "Whitex is the most real project!",
+    "Whitex the best coin with staking and listed on most major exchanges!
+Buy Now!!",
+    "BUY whitex(WHX) now!
+Going to moooon🚀",
+    "BTC and all alts dump but WHX to moon🚀
+BUY NOW!!",
+    "TERI MAA KE BHOSDE ME AC LAGA DUNGA SAARI GAEGI",
     "TERI VAHEEN KO HORLICKS PEELAUNGA MADARCHOD😚",
     "TERI MAA KI GAAND ME SARIYA DAAL DUNGA MADARCHOD USI SARIYE PR TANG KE BACHE PAIDA HONGE 😱😱",
     "TERI MAA KO KOLKATA VAALE JITU BHAIYA KA LUND MUBARAK 🤩🤩",
@@ -79,12 +82,12 @@ RAIDHU = [
 
 
 RRAID = [
-    "MADARCHOD",
-    "BHOSDIKE",
-    "LAAAWEEE KE BAAAAAL",
-    "MAAAAR KI JHAAAAT KE BBBBBAAAAALLLLL",
-    "MADRCHOD..",
-    "TERI MA KI CHUT..",
+    "Whx best token",
+    "Buy whx",
+    "Whx on moon",
+    "Whx is best",
+    "BUY whitex(WHX) now!..",
+    "What're you waiting for?Another dump?WHX is the only coin pumping!.. Buy it nowww!!!..",
     "LWDE KE BAAALLL.",
     "MACHAR KI JHAAT KE BAAALLLL",
     "TERI MA KI CHUT M DU TAPA TAP?",
